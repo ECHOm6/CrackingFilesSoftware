@@ -1,0 +1,3 @@
+1、选择Hong Kong
+2、将pdflm16.dll拷贝到安装目录进行覆盖：
+C:\Program Files (x86)\Sybase\PowerDesigner 16
